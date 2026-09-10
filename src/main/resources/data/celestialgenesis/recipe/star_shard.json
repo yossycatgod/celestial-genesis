@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","category":"misc","pattern":[" G ","GAG"," G "],"key":{"G":{"item":"minecraft:glowstone_dust"},"A":{"item":"minecraft:amethyst_shard"}},"result":{"id":"celestialgenesis:star_shard","count":1}}

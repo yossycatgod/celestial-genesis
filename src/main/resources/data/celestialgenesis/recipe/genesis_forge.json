@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","category":"misc","pattern":["ANA","OEO","OOO"],"key":{"A":{"item":"minecraft:amethyst_shard"},"N":{"item":"minecraft:nether_star"},"O":{"item":"minecraft:obsidian"},"E":{"item":"minecraft:enchanting_table"}},"result":{"id":"celestialgenesis:genesis_forge","count":1}}

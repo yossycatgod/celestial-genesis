@@ -1,0 +1,1 @@
+{"type":"minecraft:ruined_portal","biomes":"#celestialgenesis:has_structure/celestial_dungeons","step":"surface_structures","spawn_overrides":{},"setups":[{"placement":"on_land_surface","air_pocket_probability":1.0,"mossiness":0.0,"overgrown":false,"vines":false,"can_be_cold":true,"replace_with_blackstone":false,"weight":1.0}]}

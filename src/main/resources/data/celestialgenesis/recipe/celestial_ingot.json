@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","category":"misc","pattern":[" M ","NWN"," M "],"key":{"M":{"item":"celestialgenesis:moonlit_core"},"W":{"item":"celestialgenesis:watcher_eye"},"N":{"item":"minecraft:netherite_ingot"}},"result":{"id":"celestialgenesis:celestial_ingot","count":2}}
