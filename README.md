@@ -3,6 +3,125 @@
 
 NeoForge 1.21.1 mod. Current version: **v0.3.0**.
 
+## v0.5 Combat Integration Roadmap
+
+v0.5 is the major combat-integration milestone. It expands Celestial Genesis into a full hybrid melee / firearm / heavy-armament combat mod while keeping Epic Fight, TaCZ, and Apotheosis optional.
+
+### Epic Fight compatibility
+
+- Epic Fight compatibility layer
+- Dedicated Celestial melee weapon categories
+- Lunar Genesis custom moveset
+- Astral Claws
+- Crescent Reaper
+- Genesis Breaker
+- Stellar Spear
+- VOID//FANG
+- GENESIS EDGE // LUNAR-Ω
+- Dedicated normal combos
+- Aerial combos
+- Dash attacks
+- Perfect Dodge integration
+- Perfect Guard integration
+- Weapon Innate Skills
+- Creation Energy skills
+- Awakened moveset variants
+- First-person / third-person animation support where applicable
+
+### TaCZ compatibility and Celestial Gun Pack
+
+- TaCZ compatibility layer
+- Celestial Gun Pack
+- Astral / energy ammunition support
+- Lunar Sidearm
+- Crescent AR
+- Astral Breaker
+- Constellation
+- Genesis Revolver
+- Normal reload animation
+- Empty reload animation
+- Tactical reload animation
+- ADS reload animation
+- Inspect / empty inspect
+- Draw / holster
+- Sprint animation
+- Recoil animation
+- Perfect Reload
+- Special ability animations
+- Gun-specific Affixes
+- Star Socket support on compatible guns
+- Genesis Forging support for guns
+- Headshot / reload / fire-rate / recoil / penetration Affixes
+
+### Heavy armament
+
+#### ASTRAL SIEGE // SERAPH-Ω
+
+A gigantic back-mounted celestial cannon intended to be one of the signature endgame weapons.
+
+- Back-mounted folded state
+- Multi-stage deployment animation
+- Shoulder-over-fire firing posture
+- Delayed cannon tracking for a heavy feel
+- Astral Pulse standard fire
+- Celestial Lance charged beam
+- Siege Mode with ground anchoring
+- Stellar Annihilation ultimate
+- Overheat / cooldown system
+- Creation Energy integration
+- Animated core, cooling fins and cannon components
+
+### Hybrid armament
+
+#### CELESTIAL ARMAMENT // GENESIS-01
+
+A rifle / blade transformation weapon designed to bridge TaCZ and Epic Fight.
+
+- Rifle Mode
+- Blade Mode
+- TaCZ -> Epic Fight mode shift
+- Epic Fight -> TaCZ mode shift
+- Dedicated transformation animations
+- Melee-to-firearm combo routing
+- Firearm-to-melee combo routing
+
+### Ultimate linked weapons
+
+- GENESIS EDGE // LUNAR-Ω — ultimate melee armament
+- ASTRAL SIEGE // SERAPH-Ω — ultimate ranged / heavy armament
+- CELESTIAL ARMAMENT // GENESIS-01 — ultimate hybrid armament
+
+When LUNAR-Ω and SERAPH-Ω are equipped together, the Celestial Armament Link system may provide assisted cannon fire during melee combos, Creation Energy bonuses, cooldown interaction, and attack-cancel routing.
+
+### STYLE system
+
+- D
+- C
+- B
+- A
+- S
+- SS
+- SSS
+- CELESTIAL
+
+STYLE rewards mixing melee attacks, firearm attacks, aerial combat, skills, Perfect Dodge and Perfect Guard. Repeating the same action reduces STYLE gain. Reaching CELESTIAL temporarily improves Creation Energy regeneration and advanced weapon performance.
+
+### DEV / creative-only joke weapons
+
+Creative-only content lives outside normal survival progression.
+
+- Fish of Unreasonable Power
+  - absurd attack power
+  - tooltip: `可食部は見当たらない。`
+- Cat Cannon
+- Debug Stick // Genesis Edition
+- BAN HAMMER
+- Creation Pencil
+- Definitely Balanced Sword
+- yossy1359's Bad Idea
+
+These items must never be required for normal progression.
+
 ## v0.3 Astral Exploration
 
 Adds the Astral Realm, Astral Wastes biome, three worldgen structure entries, dungeon loot, keys and boss seals,
